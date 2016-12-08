@@ -706,11 +706,12 @@ Content box
 .content-box {
 	margin: 25px 0;
 }
+#contact {
 
+}
 #contact_info {
 	width: 1500px;
 }
-
 .content-box-icon {
 	text-align: center;
 	font-size: 42px;
@@ -2051,7 +2052,6 @@ Reset bootstrap navigation styles for small screens
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
-
 /* -------------------------------------------------------------------
 Responsive Media Querries
 ------------------------------------------------------------------- */
