@@ -52,6 +52,10 @@ Header Images Classes
 	background-image: url(../images/frontend.jpg);
 }
 
+.jquery {
+	background-image: url(../images/jquery.jpg);
+}
+
 .back_end {
 	background-image: url(../images/backend.jpg);
 }
